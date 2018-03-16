@@ -1,0 +1,3 @@
+Key = cb369b88d7602522fbafc26315f80ae5
+Token = d1ec5556b81731e510220dde2bf5c9f84b99074c6a2cda47eb9443fdb66c1ff7
+Board_id = 5a9b2a4762eeeac937bb458f
